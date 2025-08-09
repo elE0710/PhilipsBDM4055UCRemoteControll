@@ -13,3 +13,6 @@ The button is powered with 3.3V. The protocol couldnt be identfied and currently
 
 ### Puttential Schematic: 
 <img width="932" height="570" alt="image" src="https://github.com/user-attachments/assets/c44dc614-2c9d-4855-b553-d11e6d206b13" />
+
+
+<img width="413" height="251" alt="image" src="https://github.com/user-attachments/assets/ddc4f43c-b2be-4747-8bde-95e6bb17b8c7" />
